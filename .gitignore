@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/*.csv
+results/run_*/
+results/flowstats.csv
+results/events.log
